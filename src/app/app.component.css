@@ -2,3 +2,12 @@ p {
   font-family: Lato;
 }
 
+ion-title {
+  text-align: center;
+}
+
+/*ion-checkbox {
+  --size: 32px;
+  --background-checked: #6815ec;
+}
+*/
