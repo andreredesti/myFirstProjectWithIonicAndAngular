@@ -6,6 +6,10 @@ ion-title {
   text-align: center;
 }
 
+ion-button{
+  color: 'favorite'
+}
+
 /*ion-checkbox {
   --size: 32px;
   --background-checked: #6815ec;
