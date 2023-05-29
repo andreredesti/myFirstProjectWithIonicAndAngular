@@ -17,16 +17,7 @@ ion-footer > ion-toolbar >  ion-title  {
     
   }
   
-
-ion-content {
-      @media (max-width : 600px) {
-      img {
-        border: 1px;
-        align-items: center;
-      }
-  } 
-
-}
+/*Mudar a largura da imagem quando estiver em computador ? */
 
 
 
