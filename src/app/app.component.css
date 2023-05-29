@@ -17,6 +17,14 @@ ion-footer > ion-toolbar >  ion-title  {
     
   }
   
+ion-button {
+  padding: 0 10px
+}
+
+.center {
+  text-align: center;
+  font-size: 24px;
+}
 /*Mudar a largura da imagem quando estiver em computador ? */
 
 

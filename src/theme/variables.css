@@ -68,3 +68,9 @@
   margin: 0;
   font-size: 15px;
 }
+
+/*Teste de cores */
+
+ion-bg {
+  background-color: red;
+}
